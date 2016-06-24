@@ -1,0 +1,13 @@
+C:\Users\student\Documents\GitHub\Day5-CSharp\WindowsFormsDBDemo\WindowsFormsDBDemo\bin\Debug\WindowsFormsDBDemo.exe.config
+C:\Users\student\Documents\GitHub\Day5-CSharp\WindowsFormsDBDemo\WindowsFormsDBDemo\obj\Debug\WindowsFormsDBDemo.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\GitHub\Day5-CSharp\WindowsFormsDBDemo\WindowsFormsDBDemo\obj\Debug\WindowsFormsDBDemo.Form1.resources
+C:\Users\student\Documents\GitHub\Day5-CSharp\WindowsFormsDBDemo\WindowsFormsDBDemo\obj\Debug\WindowsFormsDBDemo.Properties.Resources.resources
+C:\Users\student\Documents\GitHub\Day5-CSharp\WindowsFormsDBDemo\WindowsFormsDBDemo\obj\Debug\WindowsFormsDBDemo.csproj.GenerateResource.Cache
+C:\Users\student\Documents\GitHub\Day5-CSharp\WindowsFormsDBDemo\WindowsFormsDBDemo\bin\Debug\WindowsFormsDBDemo.exe
+C:\Users\student\Documents\GitHub\Day5-CSharp\WindowsFormsDBDemo\WindowsFormsDBDemo\bin\Debug\WindowsFormsDBDemo.pdb
+C:\Users\student\Documents\GitHub\Day5-CSharp\WindowsFormsDBDemo\WindowsFormsDBDemo\bin\Debug\EntityFramework.dll
+C:\Users\student\Documents\GitHub\Day5-CSharp\WindowsFormsDBDemo\WindowsFormsDBDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student\Documents\GitHub\Day5-CSharp\WindowsFormsDBDemo\WindowsFormsDBDemo\bin\Debug\EntityFramework.xml
+C:\Users\student\Documents\GitHub\Day5-CSharp\WindowsFormsDBDemo\WindowsFormsDBDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\student\Documents\GitHub\Day5-CSharp\WindowsFormsDBDemo\WindowsFormsDBDemo\obj\Debug\WindowsFormsDBDemo.exe
+C:\Users\student\Documents\GitHub\Day5-CSharp\WindowsFormsDBDemo\WindowsFormsDBDemo\obj\Debug\WindowsFormsDBDemo.pdb
