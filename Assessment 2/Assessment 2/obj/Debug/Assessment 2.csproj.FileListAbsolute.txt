@@ -1,0 +1,6 @@
+C:\Users\student\Documents\GitHub\Day5-CSharp\Assessment 2\Assessment 2\bin\Debug\Assessment 2.exe.config
+C:\Users\student\Documents\GitHub\Day5-CSharp\Assessment 2\Assessment 2\bin\Debug\Assessment 2.exe
+C:\Users\student\Documents\GitHub\Day5-CSharp\Assessment 2\Assessment 2\bin\Debug\Assessment 2.pdb
+C:\Users\student\Documents\GitHub\Day5-CSharp\Assessment 2\Assessment 2\obj\Debug\Assessment 2.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\GitHub\Day5-CSharp\Assessment 2\Assessment 2\obj\Debug\Assessment 2.exe
+C:\Users\student\Documents\GitHub\Day5-CSharp\Assessment 2\Assessment 2\obj\Debug\Assessment 2.pdb
